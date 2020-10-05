@@ -489,7 +489,7 @@ Solution
 
   .. code-block:: bash
 
-    wapt-scanpackages /var/www/wapt/
+    wapt-scanpackages /var/www/html/wapt/
 
 WAPT package in error
 ---------------------
